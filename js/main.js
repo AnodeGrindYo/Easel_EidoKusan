@@ -7,5 +7,5 @@ function include(fileName)
 }
 
 
-//include("1_1.js");
-include("js/2_1.js");
+
+include("js/2_1_adaptable.js");
